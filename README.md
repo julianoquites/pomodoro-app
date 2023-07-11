@@ -1,3 +1,3 @@
-Pomodoro App using Next.js with TailwindCSS.
+# Pomodoro App using Next.js with TailwindCSS.
 
-Deployed in Vercel - https://pomodoro-app-alpha-ten.vercel.app/
+## Deployed in Vercel - https://pomodoro-app-alpha-ten.vercel.app/
